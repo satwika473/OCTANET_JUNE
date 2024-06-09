@@ -1,4 +1,4 @@
 # OCTANET_JUNE
+My landing page is easy to use and looks nice. It has a side menu that you can hide or show when you want when you minimises your screen. This helps keep the page tidy, especially on small screens. When you click on the menu, it moves smoothly, which looks cool.It provides smooth transitions when you hover on items of navbar. Each part of the page, like the introduction and the buttons you click, is put in the right place to help you find what you need. The pictures, text, and colors all look good together. And behind the scenes, the page loads quickly and works well on different devices. Overall, my landing page is designed to be easy and enjoyable to use, making it easy for people to learn about my brand and take action.
 #output
-
 ![Screenshot 2024-06-02 133304](https://github.com/satwika473/OCTANET_JUNE/assets/119293563/76825cd8-adbe-4137-82ba-42f299ace0f4)
